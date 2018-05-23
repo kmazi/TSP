@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{7FAEE32B-4AAC-4D15-A012-E9839175EA7D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TSP/Program.cs">
+    <Files>
+      <File FileName="TSP/Program.cs" Line="98" Column="2" />
+      <File FileName="TSPTests/Test.cs" Line="11" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TSP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

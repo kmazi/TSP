@@ -1,0 +1,9 @@
+/Users/andeladeveloper/Projects/TSP/TSP/bin/Debug/TSP.exe
+/Users/andeladeveloper/Projects/TSP/TSP/bin/Debug/TSP.pdb
+/Users/andeladeveloper/Projects/TSP/TSP/obj/x86/Debug/TSP.csproj.CoreCompileInputs.cache
+/Users/andeladeveloper/Projects/TSP/TSP/obj/x86/Debug/TSP.exe
+/Users/andeladeveloper/Projects/TSP/TSP/obj/x86/Debug/TSP.pdb
+/Users/andeladeveloper/Projects/TSP/TSP/bin/Debug/MoreLinq.dll
+/Users/andeladeveloper/Projects/TSP/TSP/bin/Debug/System.ValueTuple.dll
+/Users/andeladeveloper/Projects/TSP/TSP/bin/Debug/System.ValueTuple.xml
+/Users/andeladeveloper/Projects/TSP/TSP/bin/Debug/MoreLinq.xml

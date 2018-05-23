@@ -1,0 +1,10 @@
+/Users/andeladeveloper/Projects/TSP/TSPTests/bin/Debug/TSPTests.dll
+/Users/andeladeveloper/Projects/TSP/TSPTests/bin/Debug/TSPTests.pdb
+/Users/andeladeveloper/Projects/TSP/TSPTests/bin/Debug/nunit.framework.dll
+/Users/andeladeveloper/Projects/TSP/TSPTests/bin/Debug/TSP.exe
+/Users/andeladeveloper/Projects/TSP/TSPTests/bin/Debug/TSP.pdb
+/Users/andeladeveloper/Projects/TSP/TSPTests/bin/Debug/nunit.framework.xml
+/Users/andeladeveloper/Projects/TSP/TSPTests/obj/Debug/TSPTests.csprojResolveAssemblyReference.cache
+/Users/andeladeveloper/Projects/TSP/TSPTests/obj/Debug/TSPTests.csproj.CoreCompileInputs.cache
+/Users/andeladeveloper/Projects/TSP/TSPTests/obj/Debug/TSPTests.dll
+/Users/andeladeveloper/Projects/TSP/TSPTests/obj/Debug/TSPTests.pdb
